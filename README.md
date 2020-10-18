@@ -14,6 +14,7 @@ Thomas High School had a budget of $$1,043,130.00 and a budget of $638 per stude
 After replacing the ninth grader's math and reading scores, Thomas High School budget remained at	$1,043,130.00	 with a per student budget of $638.00, a lower average math score	83.350937, a significantly lower average reding score	83.896082 with further lower%passing math of	66.911315, % passing reading of	69.663609	and overall passing % 65.076453.
 
 * Scores by school size
+The scores by school size remained unaffected by the removal of the ninth graders. 
 
 * Math and reading scores by grade
 
@@ -24,4 +25,4 @@ After replacing the ninth grader's math and reading scores, Thomas High School b
 * Scores by school type
 Ther changes made did not affect the average reading score, average math score for either Charter or District schools. Charter and District schools showed a decline in the Passing Math %, Passing Reading % and Overall%.
 # Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-Four of the major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs are: a change in the average reading score, average math score, % Overall passing. In addition, the budger per student also had a variation. 
+Four of the major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs are: a change in the average reading score, average math score, % Overall passing. There were few variations to the data.
